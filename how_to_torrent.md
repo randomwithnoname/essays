@@ -17,7 +17,7 @@
 
 - [qBittorrent](https://qbittorrent.org/)
 - [Deluge](https://www.deluge-torrent.org/)
-- [Flud (Android)](https://play.google.com/store/apps/details?id=com.delphicoder.flud)
+- [LibreTorrent (Android)](https://github.com/proninyaroslav/libretorrent)
 
 ## Find a Torrent Search Engine
 
